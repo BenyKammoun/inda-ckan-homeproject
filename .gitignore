@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore the Django migration files
+*/migrations/
+
+# Ignore static files (CSS, JS, images, etc.)
+/staticfiles/
+*.log
+*.pot
+*.pyc
+*~
+
+# Ignore database files
+*.db
+*.sqlite3
+*.sql
+
+# Ignore other project-specific files
+settings.py
+local_settings.py
