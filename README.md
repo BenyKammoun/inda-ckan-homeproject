@@ -1,9 +1,9 @@
 # inda-ckan-homeproject
 
-A web page that interact with data.gov.il CKAN API in order to show selected *gov-data*.
+A web page that interacts with the `data.gov.il` CKAN API in order to show selected *gov-data*.
 
 ## 1. Install
-in order to tun this project you need to clone in locally and then run it on your local achine.
+In order to run this project you need to clone in locally and then run it on your local achine.
 
 ## 2. The App
 After running the project go to `http://127.0.0.1:your-app-port/home/` an you will land on the main page.
